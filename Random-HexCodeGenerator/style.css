@@ -1,0 +1,19 @@
+*{
+    font-family: 'SF Mono', sans-serif;
+} 
+
+.counter-div{
+    margin-top:20px;
+    background-color: antiquewhite;
+    padding: 1rem;
+    text-align: center;
+    border-radius: 5px;
+}
+  
+.count{
+    padding: 0px 30px;
+    text-align: center;
+    font-size: 4rem;
+    border: 2px dashed #F3950D;
+    border-radius: 5px;
+}
